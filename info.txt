@@ -1,0 +1,3 @@
+mysqlheaders - codeblocks linker
+libmysql.a - codeblocks search directory
+libmysql.dll - debug project

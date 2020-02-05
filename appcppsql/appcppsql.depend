@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580882495 source:c:\users\admin\downloads\appcppsql\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql/mysql.h>
+	<sstream>
+
+1580885204 source:d:\projects\appcppsql\appcppsql\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql/mysql.h>
+	<sstream>
+
