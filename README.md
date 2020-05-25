@@ -1,1 +1,2 @@
-c++ mysql test console app codeblocks
+# c++ & mysql 
+### console app use Codeblocks
